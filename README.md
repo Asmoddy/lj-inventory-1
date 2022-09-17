@@ -1,1 +1,3 @@
-#lj-inventory
+# lj-inventory
+
+# Dependencies
