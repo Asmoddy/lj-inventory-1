@@ -1,3 +1,4 @@
+# Join my Discord for updates, support, and special early testing![discord](https://discord.gg/uWJ2x5tJuR)
 
 # Dependencies
 * [qbcore framework](https://github.com/qbcore-framework)
@@ -36,6 +37,16 @@
 
 # Previews
 Full Inventory
+![image](https://user-images.githubusercontent.com/88847062/190841251-0d3e6878-0d4e-40a0-9f59-60ea0dcc4c58.png)
+
+Hotbar Slots
+![image](https://user-images.githubusercontent.com/88847062/190841229-25f00453-95b9-4615-ba9b-45933fb2ab70.png)
+
+Inventory Glovebox
+![image](https://user-images.githubusercontent.com/88847062/190841274-5d6e02af-3300-4cf0-b12f-30bd16e00868.png)
+
+Inventory Trunk
+![image](https://user-images.githubusercontent.com/88847062/190841283-e7ae57cc-706e-46b3-a444-58f7dbec63ac.png)
 
 
 
