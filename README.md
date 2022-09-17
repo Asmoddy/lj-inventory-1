@@ -1,6 +1,6 @@
 # lj-inventory
 
-# Dependencies
+## Dependencies
 .[qbcore framework](https://github.com/qbcore-framework)
 [qb-target](https://github.com/qbcore-framework/qb-target)
 [qb-core](https://github.com/qbcore-framework/qb-cor)
