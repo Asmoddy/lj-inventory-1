@@ -1,4 +1,4 @@
-Join my Discord for updates, support, and special early testing!
+# Join my Discord for updates, support, and special early testing!
 [Discord](https://discord.gg/uWJ2x5tJuR)
 
 ## Dependencies
