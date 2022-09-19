@@ -37,16 +37,16 @@
 
 # Previews
 Full Inventory
-![image](https://user-images.githubusercontent.com/88847062/190841251-0d3e6878-0d4e-40a0-9f59-60ea0dcc4c58.png)
+![image](https://user-images.githubusercontent.com/88847062/191053198-aad79b63-1233-4af3-8333-b992084be1ef.png)
 
 Hotbar Slots
-![image](https://user-images.githubusercontent.com/88847062/190841229-25f00453-95b9-4615-ba9b-45933fb2ab70.png)
+![image](https://user-images.githubusercontent.com/88847062/191053275-7bc7e6bf-5c98-48a8-af92-b6520b6b17b6.png)
 
 Inventory Glovebox
-![image](https://user-images.githubusercontent.com/88847062/190841274-5d6e02af-3300-4cf0-b12f-30bd16e00868.png)
+![image](https://user-images.githubusercontent.com/88847062/191053425-85d145c1-a8b8-49ea-af1f-b563b9e47ffc.png)
 
 Inventory Trunk
-![image](https://user-images.githubusercontent.com/88847062/190841283-e7ae57cc-706e-46b3-a444-58f7dbec63ac.png)
+![image](https://user-images.githubusercontent.com/88847062/191053549-719541b3-eec8-4ce6-93d1-f12e5478f11e.png)
 
 
 
